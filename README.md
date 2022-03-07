@@ -1,5 +1,6 @@
 # Election_Analysis-Callenge
 Callenge 3
+the election audit, and discuss the information needed by the Colorado Board of Elections.
 n this project, our final Python script will need to be able to deliver the following information when the script is run: 
 
 Total number of votes cast
